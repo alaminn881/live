@@ -1,0 +1,21 @@
+@media (min-width:768px) {
+    .top-left p {
+        display: block;
+    }
+    .top-right .phone p {
+        display: block;
+    }
+    .menu {
+        display: block;
+    }
+    .search-icon,
+    .cart-icon {
+        display: block;
+    }
+    .toggler {
+        display: none;
+    }
+    .banner .banner-left .content p {
+        font-size: 1.99em;
+    }
+}
